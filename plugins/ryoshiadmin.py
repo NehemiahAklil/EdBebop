@@ -77,8 +77,14 @@ async def next_game(event):
 
 @ultroid_cmd(pattern="st( (.*)|$)", manager=True)
 async def start_game(event):
-    game_type = event.pattern_match.group(1).split(" ")[1]
-    bot_type = event.pattern_match.group(1).split(" ")[2]
+    try:
+        game_type = event.pattern_match.group(1).split(" ")[1]
+    except IndexError:
+        game_type = "" 
+    try:
+        bot_type = event.pattern_match.group(1).split(" ")[2]
+    except IndexError:
+        bot_type = "" 
     if not bot_type.isdigit(): 
             bot_type="blackwerewolfbot" 
     else:
