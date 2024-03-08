@@ -56,7 +56,7 @@ afk_5: "`AFK යනවා.`\n\n
 afk_6: "මම AFK යනවා."
 
 # bot
-alive_1: "**The Ultroid Userbot...**\n\n
+alive_1: "**The EdBebop Userbot...**\n\n
 **{}**\n\n
 ┏━━━━━━━━━━━━━━━━━━━━━\n
 ┣ **Owner** - `{}`\n
@@ -67,7 +67,7 @@ alive_1: "**The Ultroid Userbot...**\n\n
 ┣ **Telethon** - `{}`\n
 ┣ **Branch** - `{}`\n
 ┗━━━━━━━━━━━━━━━━━━━━━"
-log: " Ultroid userbot ගේ **Heroku** Logs.\n[මෙතනත් ]({}) paste කර ඇත!"
+log: " EdBebop Userbot ගේ **Heroku** Logs.\n[මෙතනත් ]({}) paste කර ඇත!"
 ping: "** වැඩ වැඩ මහත්තයො ** Pong !! ** `{}ms`\n**Uptime** - `{}`"
 usage: "**⚙️ Dyno භාවිතය ⚙️**:\n\n
  -> **{}** `ගේ Dyno භාවිතය`:\n
@@ -157,7 +157,7 @@ gdrive_2: "Go [here](https://console.developers.google.com/flows/enableapi?apiid
 Send your GDRIVE_CLIENT_ID and GDRIVE_CLIENT_SECRET as this.\n`GDRIVE_CLIENT_ID GDRIVE_CLIENT_SECRET` separated by space."
 gdrive_3: "`Wrong Client Id`"
 gdrive_4: "`Something went wrong! Send `/auth` again.\nIf same happens contact `@TeamUltroid"
-gdrive_5: "`Success!\nYou are all set to use Google Drive with Ultroid Userbot.`"
+gdrive_5: "`Success!\nYou are all set to use Google Drive with EdBebop Userbot.`"
 gdrive_6: "`Go to `{}` and send ``/auth.`"
 gdrive_7: "**Successfully Uploaded File on G-Drive :**\n\n[{}]({})"
 

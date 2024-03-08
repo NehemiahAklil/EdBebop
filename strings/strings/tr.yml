@@ -42,7 +42,7 @@ afk_5: "`Artık AFK'yım.`\n\n **Sebebi:** `{}`"
 afk_6: "Artık AFK'yım."
 
 #bot
-alive_1: "**Ultroid UserBot...**\n\n **{}**\n\n ┏━━━━━━━━━━━━━━━━━━━━━\n ┣ **Botun Sahibi** - `{}`\n ┣ **Sürüm** - `{}`\n ┣ **Çalışma Süresi** - `{}`\n ┣ **Python** - `{}`\n ┣ **Telethon** - `{}`\n ┣ **Branch** - `{}`\n ┗━━━━━━━━━━━━━━━━━━━━━"
+alive_1: "**EdBebop Userbot...**\n\n **{}**\n\n ┏━━━━━━━━━━━━━━━━━━━━━\n ┣ **Botun Sahibi** - `{}`\n ┣ **Sürüm** - `{}`\n ┣ **Çalışma Süresi** - `{}`\n ┣ **Python** - `{}`\n ┣ **Telethon** - `{}`\n ┣ **Branch** - `{}`\n ┗━━━━━━━━━━━━━━━━━━━━━"
 log: "**Heroku** Ultroid Günlükleri.\n[Buraya]({}) da yapıştırıldı!"
 ping: "**Pong !!** `{}ms`\n**Çalışma Süresi** - `{}`"
 usage: "**⚙️ Dyno Kullanımı ⚙️**:\n\n -> **{}** İçin Kullanılmış Dyno Süresi:\n •  `{}`**saat**  `{}`**dakika** **|**  [`{}`**%**]\n\n -> `Bu Ay İçin Kalan Dyno süresi`:\n •  `{}`**saat**  `{}`**dakika** **|**  [`{}`**%**]\n\n **Toplam Disk Alanı: {}\n\n** **Kullanılmış: {}  Bedava: {}\n\n** **📊Veri Kullanımı📊\n\nYükleme: {}\nİndirme: {}\n\n** **CPU: {}%\nRAM: {}%\nDISK: {}%**"
@@ -122,7 +122,7 @@ gdrive_1: "`Google Drive ile zaten yetki verdiniz`"
 gdrive_2: "[Buraya](https://console.developers.google.com/flows/enableapi?apiid=drive) gidin ve \"GDRIVE_CLIENT_ID\" ve \"GDRIVE_CLIENT_SECRET\" bilgilerinizi alın\n\n GDRIVE_CLIENT_ID ve GDRIVE_CLIENT_SECRET bilgilerinizi bu şekilde gönderin.\n\"GDRIVE_CLIENT_ID GDRIVE_CLIENT_SECRET\" gördüğünüz gibi boşlukla ayrılmış."
 gdrive_3: "`İD doğru değil.`"
 gdrive_4: "'Bir şeyler ters gitti! Tekrar `/auth` komutunu gönderin.\nAynı şey olursa `@TeamUltroid ile iletişime geçin."
-gdrive_5: "`Başarılı!\nGoogle Drive'ı Ultroid Userbot ile kullanmaya hazırsınız.`"
+gdrive_5: "`Başarılı!\nGoogle Drive'ı EdBebop Userbot ile kullanmaya hazırsınız.`"
 gdrive_6: "``{}` adresine gidin ve``/auth.` komutunu gönderin"
 gdrive_7: "**G-Drive'a Başarıyla Yüklenen Dosya :**\n\n[{}]({})"
 

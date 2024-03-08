@@ -209,7 +209,7 @@ gdrive_1: "`┇انــت مــصــرح لــك بــالــفــعــل
 gdrive_2: "┇أذهــب [هــنــا](https://console.developers.google.com/flows/enableapi?apiid=drive) واحــصــل عــلــى  GDRIVE_CLIENT_ID و GDRIVE_CLIENT_SECRET الــخــاص بــك\n\n"
 gdrive_3: "┇ايــدي الــعــمــيــل خــاطــئ ⚠️"
 gdrive_4: "`┇حــدث خــطــأ مــا ❗️ارســل `/auth` مــجــدداً . \n┇اذا حــدث نــفــس الــخــطــأ مــجدداً ؟ راســل `@TeamUltroid"
-gdrive_5: "`┇نجحت العملية ! ✅\n┇انــت جــاهــز لاســتــخــدام Google Drive مــع  Ultroid Userbot 🔱.`"
+gdrive_5: "`┇نجحت العملية ! ✅\n┇انــت جــاهــز لاســتــخــدام Google Drive مــع  EdBebop Userbot 🔱.`"
 gdrive_6: "`┇اذهب الى  `{}` وارسل ``/auth`."
 gdrive_7: "**┇تــم رفــع الــمــلــف عــلــى G-Drive بــنــجــاح ✅ :**\n\n[{}]({})"
 

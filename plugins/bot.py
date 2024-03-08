@@ -1,9 +1,9 @@
 # Ultroid - UserBot
 # Copyright (C) 2021-2023 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/TeamUltroid/Ultroid/>
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/NehemiahAklil/EdBebop/blob/main/LICENSE/>.
 
 from . import get_help
 
@@ -59,7 +59,7 @@ from . import (
     time_formatter,
     udB,
     ultroid_cmd,
-    ultroid_version,
+    edbebop_version,
     updater,
 )
 
@@ -70,26 +70,26 @@ def ULTPIC():
 
 buttons = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/TeamUltroid/Ultroid"),
-        Button.url(get_string("bot_4"), "t.me/UltroidSupportChat"),
+        Button.url(get_string("bot_3"), "https://github.com/NehemiahAklil/EdBebop"),
+        Button.url(get_string("bot_4"), "t.me/ABoyWhoWonders"),
     ]
 ]
 
 # Will move to strings
 alive_txt = """
-The Ultroid Userbot
+The EdBebop Userbot
 
   ◍ Version - {}
   ◍ Py-Ultroid - {}
   ◍ Telethon - {}
 """
 
-in_alive = "{}\n\n🌀 <b>Ultroid Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b>[ {} ]\n\n• <b>Join @TeamUltroid</b>"
+in_alive = "{}\n\n🌀 <b>EdBebop Version -><b> <code>{}</code>\n🌀 <b>PyUltroid -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b>[ {} ]\n\n• <b>Join @WegegtaTech</b>"
 
 
 @callback("alive")
 async def alive(event):
-    text = alive_txt.format(ultroid_version, UltVer, __version__)
+    text = alive_txt.format(edbebop_version, UltVer, __version__)
     await event.answer(text, alert=True)
 
 
@@ -122,7 +122,7 @@ async def lol(ult):
         parse = "html"
         als = in_alive.format(
             header,
-            f"{ultroid_version} [{HOSTED_ON}]",
+            f"{edbebop_version} [{HOSTED_ON}]",
             UltVer,
             pyver(),
             uptime,
@@ -136,7 +136,7 @@ async def lol(ult):
         als = (get_string("alive_1")).format(
             header,
             OWNER_NAME,
-            f"{ultroid_version} [{HOSTED_ON}]",
+            f"{edbebop_version} [{HOSTED_ON}]",
             UltVer,
             uptime,
             pyver(),
@@ -268,7 +268,7 @@ async def inline_alive(ult):
     rep = xx.replace(".git", f"/tree/{y}")
     kk = f"<a href={rep}>{y}</a>"
     als = in_alive.format(
-        header, f"{ultroid_version} [{HOSTED_ON}]", UltVer, pyver(), uptime, kk
+        header, f"{edbebop_version} [{HOSTED_ON}]", UltVer, pyver(), uptime, kk
     )
 
     if _e := udB.get_key("ALIVE_EMOJI"):
@@ -292,7 +292,7 @@ async def inline_alive(ult):
                     await builder.document(
                         pic,
                         title="Inline Alive",
-                        description="@TeamUltroid",
+                        description="@WegegtaTech",
                         parse_mode="html",
                         buttons=buttons,
                     )
@@ -338,7 +338,7 @@ async def _(e):
         )
     else:
         await xx.edit(
-            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/TeamUltroid/Ultroid/tree/{branch}">[{branch}]</a></strong>',
+            f'<code>Your BOT is </code><strong>up-to-date</strong><code> with </code><strong><a href="https://github.com/NehemiahAklil/EdBebop/tree/{branch}">[{branch}]</a></strong>',
             parse_mode="html",
             link_preview=False,
         )

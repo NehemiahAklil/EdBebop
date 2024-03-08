@@ -1,32 +1,23 @@
+<h1 align="center">
+  EdBebop Userbot
+</h1>
 <p align="center">
   <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
 </p>
-<h1 align="center">
-  <b>Ultroid - UserBot</b>
-</h1>
+<b>A fork of Ultroid, extended to work as an anime and werewolf centric groups moderator</b>
 
-<b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
-
-[![](https://img.shields.io/badge/Ultroid-v0.8-crimson)](#)
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
+[![](https://img.shields.io/badge/EdBebop-v0.1-crimson)](#)
+[![Stars](https://img.shields.io/github/stars/NehemiahAklil/EdBebop?style=flat-square&color=yellow)](https://github.com/Nehemiah/EdBebop/stargazers)
+[![Forks](https://img.shields.io/github/forks/NehemiahAklil/EdBebop?style=flat-square&color=orange)](https://github.com/NehemiahAklil/EdBebop/fork)
+[![Size](https://img.shields.io/github/repo-size/NehemiahAklil/EdBebop?style=flat-square&color=green)](https://github.com/NehemiahAklil/EdBebop/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.3-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/NehemiahAklil/EdBebop/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NehemiahAklil/EdBebop)
+[![Contributors](https://img.shields.io/github/contributors/NehemiahAklil/EdBebop?style=flat-square&color=green)](https://github.com/NehemiahAklil/EdBebop/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/NehemiahAklil/EdBebop/blob/main/LICENSE)   
+[![Sparkline](https://stars.medv.io/NehemiahAklil/EdBebop.svg)](https://stars.medv.io/NehemiahAklil/EdBebop)
 ----
-
-# Deploy
-- [Heroku](#deploy-to-heroku)
-- [Okteto](#deploy-to-okteto)
-- [Local Machine](#deploy-locally)
-
 # Documentation 
 [![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
 
@@ -44,7 +35,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/NehemiahAklil/EdBebop)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
@@ -59,7 +50,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://github.com/NehemiahAklil/EdBebop.git`
 - Go to the cloned folder:    
 `cd Ultroid`
 - Create a virtual env:      
@@ -77,7 +68,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `wget -O session.py https://git.io/JY9JI && python session.py`
   - For Windows Users:
     `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
+- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/NehemiahAklil/EdBebop/blob/main/.env.sample).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
@@ -100,7 +91,7 @@ One of the following database:
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+* [![Run on Repl.it](https://replit.com/badge/github/NehemiahAklil/EdBebop)](https://replit.com/@NehemiahAklil/EdBebopStringSession)
 * Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
@@ -110,7 +101,7 @@ Different ways to get your `SESSION`:
 
 # License
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
-Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+EdBebop is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 ---
 
@@ -119,4 +110,5 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+> Made with 💕 by [Boy Wonder](https://t.me/ABoyWhoWonders).    
+> Powered by [WegegtaTech](https://t.me/WegegtaTech).    

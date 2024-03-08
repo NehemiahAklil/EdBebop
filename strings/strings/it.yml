@@ -56,7 +56,7 @@ afk_5: "`Andando AFK.`\n\n
 afk_6: "Sto andando AFK."
 
 # bot
-alive_1: "**L'Ultroid Userbot...**\n\n
+alive_1: "**L'EdBebop Userbot...**\n\n
 **{}**\n\n
 ┏━━━━━━━━━━━━━━━━━━━━━\n
 ┣ **Owner** - `{}`\n
@@ -156,7 +156,7 @@ gdrive_2: "Vai [qui](https://console.developers.google.com/flows/enableapi?apiid
 Invia il tuo GDRIVE_CLIENT_ID e GDRIVE_CLIENT_SECRET come questo.\n`GDRIVE_CLIENT_ID GDRIVE_CLIENT_SECRET` separati dagli spazi."
 gdrive_3: "`Client Id sbagliato`"
 gdrive_4: "`Qualcosa è andato storto! Invia `/auth` di nuovo.\nSe lo stesso accade, contatta '@TeamUltroid"
-gdrive_5: "`Successo!\nSei pronto per utilizzare Google Drive con Ultroid Userbot.`"
+gdrive_5: "`Successo!\nSei pronto per utilizzare Google Drive con EdBebop Userbot.`"
 gdrive_6: "`Vai a `{}` e invia ``/auth.`"
 gdrive_7: "**File caricato con successo su G-Drive:**\n\n[{}]({})"
 

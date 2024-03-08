@@ -45,7 +45,7 @@ from ..fns.admins import admin_check
 from ..fns.helper import bash
 from ..fns.helper import time_formatter as tf
 from ..version import __version__ as pyver
-from ..version import ultroid_version as ult_ver
+from ..version import edbebop_version as ult_ver
 from . import SUDO_M, owner_and_sudos
 from ._wrappers import eod
 
@@ -164,9 +164,9 @@ def ultroid_cmd(
                 LOGS.exception(e)
                 date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
                 naam = get_display_name(chat)
-                ftext = "**Ultroid Client Error:** `Forward this to` @UltroidSupportChat\n\n"
+                ftext = "**EdBebop Client Error:** `Forward this to` @WegegtaTechSupport \n\n"
                 ftext += "**Py-Ultroid Version:** `" + str(pyver)
-                ftext += "`\n**Ultroid Version:** `" + str(ult_ver)
+                ftext += "`\n**EdBebop Version:** `" + str(ult_ver)
                 ftext += "`\n**Telethon Version:** `" + str(telever)
                 ftext += f"`\n**Hosted At:** `{HOSTED_ON}`\n\n"
                 ftext += "--------START ULTROID CRASH LOG--------"
@@ -194,7 +194,7 @@ def ultroid_cmd(
                         error_log = await asst.send_file(
                             udB.get_key("LOG_CHANNEL"),
                             file,
-                            caption="**Ultroid Client Error:** `Forward this to` @UltroidSupportChat\n\n",
+                            caption="**EdBebop Client Error:** `Forward this to` @WegegtaTechSupport \n\n",
                         )
                 else:
                     error_log = await asst.send_message(

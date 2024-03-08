@@ -1,7 +1,12 @@
-
+# EdBebop - UserBot
+# Copyright (C) 2024 WegegtaTech
+#
+# This file is a part of < https://github.com/NehemiahAklil/EdBebop/>
+# PLease read the GNU Affero General Public License in
+# <https://www.github.com/NehemiahAklil/EdBebop/blob/main/LICENSE/>.
 # from . import get_help
 
-# __doc__ = get_help("help_admintools")
+# __doc__ = get_help("help_ryoshiadmin")
 
 from telethon.errors import BadRequestError
 from . import eor, get_string

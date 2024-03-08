@@ -57,7 +57,7 @@ afk_5: "`ഞാൻ പോകുന്നു..`\n\n
 afk_6: "ഞാൻ പോകുന്നു."
 
 # bot
-alive_1: "**The Ultroid Userbot...**\n\n
+alive_1: "**The EdBebop Userbot...**\n\n
 **{}**\n\n
 ┏━━━━━━━━━━━━━━━━━━━━━\n
 ┣ **ഓണർ** - `{}`\n
@@ -157,7 +157,7 @@ gdrive_2: "Go [here](https://console.developers.google.com/flows/enableapi?apiid
 Send your GDRIVE_CLIENT_ID and GDRIVE_CLIENT_SECRET as this.\n`GDRIVE_CLIENT_ID GDRIVE_CLIENT_SECRET` seperated with space."
 gdrive_3: "`തന്ന ക്ലയന്റ് ഐഡി തെറ്റാണ്`"
 gdrive_4: "`എന്തോ തെറ്റു സംഭവിച്ചിരിക്കുന്നു. `/auth` എന്നു സെന്റ് ചെയ്യുക.\nഇത് വീണ്ടും സംഭവിച്ചാൽ ഞങ്ങളെ ബന്ധപ്പെടുക `@TeamUltroid"
-gdrive_5: "`പൂർത്തിയായി!\nവിജയകരമായി നിങ്ങൾഗൂഗിൾ ഡ്രൈവ്  Ultroid Userbot ആയി ബന്ധിപ്പിച്ചു.`"
+gdrive_5: "`പൂർത്തിയായി!\nവിജയകരമായി നിങ്ങൾഗൂഗിൾ ഡ്രൈവ്  EdBebop Userbot ആയി ബന്ധിപ്പിച്ചു.`"
 gdrive_6: "`Go to `{}` and send ``/auth.`"
 gdrive_7: "**വിജയകരമായി ഗൂഗിൾ ഡ്രൈവിൽ അപ്ലോഡ് ചെയ്തിരിക്കുന്നു:**\n\n[{}]({})"
 

@@ -324,7 +324,7 @@ gdrive_1: "`Ya ha autorizado con Google Drive`"
 gdrive_2: "Vaya [here] (https://console.developers.google.com/flows/enableapi?apiid=drive) y obtenga su `GDRIVE_CLIENT_ID` y` GDRIVE_CLIENT_SECRET`\n\n Envíe su GDRIVE_CLIENT_ID y GDRIVE_CLIENT_SECRET como este.\n`GDRIVE_CLIENT_ID GDRIVE_CLIENT_SECRET` separados por espacio."
 gdrive_3: "`Id de cliente incorrecto`"
 gdrive_4: "`¡Algo salió mal! Vuelva a enviar `/auth`otra vez.\nSi sucede lo mismo, contacte con `@TeamUltroid"
-gdrive_5: "`¡Éxito!\nYa está todo listo para usar Google Drive con Ultroid Userbot.`"
+gdrive_5: "`¡Éxito!\nYa está todo listo para usar Google Drive con EdBebop Userbot.`"
 gdrive_6: "`Vaya a `{} `y envíe ``/auth.`"
 gdrive_7: "**Archivo cargado con éxito en G-Drive:**\n\n[{}]({})"
 

@@ -1,17 +1,20 @@
 {
-    "name": "Ultroid UserBot",
-    "description": "Pluggable telegram userbot, made in python using Telethon.",
+    "name": "EdBebop UserBot",
+    "description": "Pluggable telegram userbot, made in python using Telethon extended for anime and werewolf group moderation",
     "logo": "https://graph.org/file/031957757a4f6a5191040.jpg",
     "keywords": [
         "Telethon",
         "telegram",
         "userbot",
         "python",
-        "ultroid"
+        "ultroid",
+        "EdBebop",
+        "werewolf",
+        "anime"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
+    "repository": "https://github.com/NehemiahAklil/EdBebop",
     "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TeamUltroid",
+    "success_url": "https://t.me/WegegtaTech",
     "stack": "container",
     "env": {
         "API_ID": {

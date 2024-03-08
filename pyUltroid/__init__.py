@@ -27,7 +27,7 @@ if run_as_module:
     from .startup.BaseClient import UltroidClient
     from .startup.connections import validate_session, vc_connection
     from .startup.funcs import _version_changes, autobot, enable_inline, update_envs
-    from .version import ultroid_version
+    from .version import edbebop_version
 
     if not os.path.exists("./plugins"):
         LOGS.error(
@@ -69,7 +69,7 @@ if run_as_module:
         ultroid_bot = UltroidClient(
             validate_session(Var.SESSION, LOGS),
             udB=udB,
-            app_version=ultroid_version,
+            app_version=edbebop_version,
             device_model="Ultroid",
         )
         ultroid_bot.run_in_loop(autobot())

@@ -1,2 +1,2 @@
-__version__ = "2023.02.20"
-ultroid_version = "0.8"
+__version__ = "2024.03.08"
+edbebop_version = "0.1"
