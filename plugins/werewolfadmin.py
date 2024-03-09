@@ -6,7 +6,7 @@
 # <https://www.github.com/NehemiahAklil/EdBebop/blob/main/LICENSE/>.
 # from . import get_help
 
-# __doc__ = get_help("help_ryoshiadmin")
+# __doc__ = get_help("help_werewolfadmin")
 
 from telethon.errors import BadRequestError
 from . import eor, get_string
