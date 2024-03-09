@@ -10,7 +10,7 @@
     Telegram's anime-fueled userbot by day, werewolf wrangler by night.
     <br/>
     <br/>
-    <a href="https://github.com/NehemiahAklil/EdBebop"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NehemiahAklil/EdBebop"><strong>Docs coming soon »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/NehemiahAklil/EdBebop/issues">Report Bug</a>
@@ -19,7 +19,7 @@
   </p>
 </p>
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <img src="https://img.shields.io/badge/EdBebop-v0.1-8b3469" alt="EdBebop badge">
   <a href="https://github.com/NehemiahAklil/EdBebop/issues"><img src="https://img.shields.io/github/issues/NehemiahAklil/EdBebop" alt="Issues"></a>
   <a href="https://github.com/NehemiahAklil/EdBebop/graphs/contributors"><img src="https://img.shields.io/github/contributors/NehemiahAklil/EdBebop?style=flat-square&color=green" alt="Contributors"></a>
@@ -29,36 +29,30 @@
   <img src="
   https://img.shields.io/github/license/NehemiahAklil/EdBebop?color=purple" alt="License">
   <br>
-  
+   -->
   <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <br> -->
   
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-v3.11.8-3776AB?logo=python" alt="Python"></a>
+  <!-- <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-v3.11.8-3776AB?logo=python" alt="Python"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MongoDB-v7.0.5-47A248?logo=mongodb" alt="MongoDB"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PostgreSQL-v16.2-4169E1?logo=postgresql" alt="PostgreSQL"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Redis-v7.2-DC382D?logo=redis" alt="Redis"></a>
-</div>
+</div> -->
 
-<!-- 
+
 [![](https://img.shields.io/badge/EdBebop-v0.1-8b3469)](#)
 ![Issues](https://img.shields.io/github/issues/NehemiahAklil/EdBebop) 
 [![Contributors](https://img.shields.io/github/contributors/NehemiahAklil/EdBebop?style=flat-square&color=green)](https://github.com/NehemiahAklil/EdBebop/graphs/contributors)
 [![Size](https://img.shields.io/github/repo-size/NehemiahAklil/EdBebop?style=flat-square&color=green)](https://github.com/NehemiahAklil/EdBebop/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/NehemiahAklil/EdBebop)
-![License](https://img.shields.io/github/license/NehemiahAklil/EdBebop?color=purple) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 [![Python](https://img.shields.io/badge/Python-v3.11.8-3776AB?logo=python)](https://www.python.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-v7.0.5-47A248?logo=mongodb)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v16.2-4169E1?logo=postgresql)](https://www.python.org/)
-[![Redis](https://img.shields.io/badge/Redis-v7.2-DC382D?logo=redis)](https://www.python.org/) -->
+[![Redis](https://img.shields.io/badge/Redis-v7.2-DC382D?logo=redis)](https://www.python.org/)
 # Table Of Contents
 
 - [Table Of Contents](#table-of-contents)
